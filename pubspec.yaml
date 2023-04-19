@@ -21,5 +21,3 @@ flutter:
       android:
         package: com.nateshmbhat.card_scanner
         pluginClass: CardScannerPlugin
-      ios:
-        pluginClass: CardScannerPlugin
