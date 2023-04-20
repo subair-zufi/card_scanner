@@ -81,7 +81,7 @@
             android:gravity="center"
             android:lineSpacingExtra="6sp"
             android:layout_centerInParent="true"
-            android:text="Наведите камеру на карту"
+            android:text="Ensure your card is within the frame"
             android:textAlignment="center"
             android:textColor="#f0f0f5"
             android:textSize="12sp" />
